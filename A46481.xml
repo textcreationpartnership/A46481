@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to sundry of the lords, and others of His Majesties most honourable Privy Council, calling them to be witnesses of the Queens labour.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46481</idno>
+            <idno type="STC">Wing J204</idno>
+            <idno type="STC">ESTC R213900</idno>
+            <idno type="EEBO-CITATION">99826153</idno>
+            <idno type="PROQUEST">99826153</idno>
+            <idno type="VID">30545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to sundry of the lords, and others of His Majesties most honourable Privy Council, calling them to be witnesses of the Queens labour.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30545:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>His MAJESTIES Letter <hi>To ſundry of the Lords, and others of His Majeſties moſt honourable Privy Council, calling them to be Witneſſes of the Queens Labour.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>JAMES</hi> R.</signed>
+            </opener>
+            <p>RIght truſty right well-beloved Couſin and Counſellor, We greet you well; Whereas Our Royal Predeceſſors uſed to call ſuch of their Privy Council as could conveniently be had to be preſent at the Labour of their Queens, and Witneſſes to the Birth of their Children. And whereas we have followed their Example at the Birth of Our deareſt Son <hi>James</hi> Prince of <hi>Wales,</hi> Though even that precaution was not enough to hinder Us from the malicious Aſperſions of ſuch as were reſolved to deprive Us of Our Royal Right.</p>
+            <p>That we may not be wanting to Our Selves, now that it hath pleaſed Almighty God (the Supporter of Truth) to give Us the hopes of further Iſſue, Our deareſt Conſort the Queen being big, and drawing near her time, We have thought fit to require ſuch of Our Privy Council as poſſibly can come, to attend Us here at St. <hi>Germains,</hi> to be Witneſſes of Our ſaid deareſt Conſort the Queen her Labour.</p>
+            <p>We do therefore hereby ſignifie Our Royal Pleaſure to you, that you may uſe all poſſible means to come with what convenient haſte you can, the Queen looking about the middle of <hi>May</hi> next, <hi>Engliſh</hi> Account. And that you may have no Scruple on Our ſide, Our deareſt Brother the moſt Chriſtian King has given his conſent to promiſe you (as We hereby do) that you ſhall have leave to come, and (the Queens Labour over) to return with all Safety.</p>
+            <p>Though the Iniquity of the Times, the Tyranny of Strangers, and a misled Party of Our own Subjects, have brought Us under the neceſſity of uſing this unuſual Way. Yet We hope it will convince the World of the Truth and Candour of Our Proceedings, to the Confuſion of Our Enemies; So not doubting of your Com<g ref="char:EOLhyphen"/>pliance herewith, We bid you heartily farewell.</p>
+            <closer>
+               <dateline>Given at Our Court at the Caſtle of St. <hi>Germains</hi> 
+                  <date>the Second Day of <hi>April,</hi> 1692. and in the Eighth Year of Our Reign.</date>
+               </dateline>
+               <signed>J. R.</signed>
+            </closer>
+         </div>
+         <div type="comments">
+            <head>Advertiſement.</head>
+            <p>IF the impoſing a Suppoſititious <hi>Son</hi> upon the Nation to the prejudice of the Princeſs of <hi>O.</hi> gave the Prince her Husband the Provocation of invading the Dominions of his Father, and the wreſting his Crown from him: The offering to repeat a Trick that proved ſo ſucceſsful unto him, is the happieſt Advantage that can be given to <hi>W.</hi> of ſecuring him in his Throne. But it will concern him to uſe better Methods for the detecting this Impoſture than any he hath thought fit to advance in proof of the former; For neither his own Credit, which he hath ſtak'd in his Declaration, nor the Topicks inſiſted upon by <hi>Burnet</hi> and <hi>Wildman,</hi> to diſprove the Ligitimacy of the laſt, will paſs any longer upon the Nation, to bubble them into a Belief that they are to be Cheated afreſh. And there<g ref="char:EOLhyphen"/>fore as they at <hi>Whitehall</hi> would not be thought to truſt to the preſerving that by Power, which they acquired by Falſhood, they are bound in Wiſdom, as well as Honour and Juſtice, to gratifie the Deſire of the KING in the preceeding Letter. Nor can they take a more compendious way of being drove back to <hi>Holland</hi> with indelible Infamy, than either to conceal the Letters addreſſed to Perſons of Honour and Quality upon this Occaſion; Or to refuſe them the Liberty of going over with as much Safety on this, as is generouſly offered on that Side.</p>
+            <p>Beſides the Letters ſent to moſt of the Privy Counſellors as aforeſaid, there were alſo Letters directed to theſe Perſons following. <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>To 12 Peereſſes.</hi> Dutcheſs of <hi>Somerſet,</hi> Dutcheſs of <hi>Beaufort,</hi> March. of <hi>Hallifax,</hi> Lady <hi>Darby,</hi> Lady <hi>Mulgrave,</hi> Lady <hi>Rutland,</hi> Lady <hi>Brooks,</hi> Lady <hi>Nottingham,</hi> Lady <hi>Lumley,</hi> Lady <hi>Danby,</hi> Lady <hi>Fretchvile,</hi> Lady <hi>Fitzharding.</hi>
+            </p>
+            <p>
+               <hi>To 6 Commoners Ladies, &amp;c.</hi> Sir <hi>John Trevor</hi> the Speaker's Lady, Sir <hi>Edw. S<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mour</hi>'s Lady, Sir <hi>Chriſtopher Muſgrave</hi>'s Lady, Sir <hi>Tho. Pope Blunt</hi>'s Lady, Sir <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Guiſe's</hi> Lady, <hi>Tho. Foley,</hi> 
+               <abbr>Eſq</abbr> his Lady; Lady <hi>Stamp,</hi> Lord Mayor's La<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Aſhurſt.</hi> Lady <hi>Levet,</hi> the two Sheriffs Ladies: Dr. <hi>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chamberl<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
